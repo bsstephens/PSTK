@@ -1,0 +1,44 @@
+First Commit
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	deleted:    README.md
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	2CFOPSD.m
+#	DATAIN/
+#	DATAOUT/
+#	Difference.m
+#	Difference2.m
+#	FOPSD.m
+#	Grab_set.m
+#	PS.fig
+#	PS.m
+#	Passive2_set.m
+#	Passive_set.m
+#	README.txt
+#	THREECOMPMODEL.m
+#	atrazine.jpg
+#	empore2com1side.m
+#	galecal.m
+#	m_2mem1.m
+#	m_mem1.m
+#	m_mem2.m
+#	pathdef.m
+#	plotresults.m
+#	runcal.m
+#	rungale.m
+#	runme.m
+#	runmodel.m
+#	spmdmodel.m
+#	tcm.7z
+#	tcm.m
+#	testrun.m
+#	three.m
+#	threecompSDB.m
